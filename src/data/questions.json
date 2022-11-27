@@ -1,0 +1,43 @@
+{
+    "questions": [
+        {"questionText": "What is the capital of France?",
+         "answerOptions": [
+        { "answerText": "New York", "isCorrect": false, "num": 1 },
+        { "answerText": "London", "isCorrect": false, "num": 2 },
+        { "answerText": "Paris", "isCorrect": true, "num": 3 },
+        { "answerText": "Dublin", "isCorrect": false, "num": 4 }
+    ]},
+    {
+        "questionText": "Who is CEO of Tesla?",
+         "answerOptions": [
+        { "answerText": "Jeff Bezos", "isCorrect": false, "num": 1 },
+        { "answerText": "Elon Musk", "isCorrect": true, "num": 2 },
+        { "answerText": "Bill Gates", "isCorrect": false, "num": 3 },
+        { "answerText": "Tony Stark", "isCorrect": false, "num": 4 }
+    ]},
+    {
+        "questionText": "The iPhone was created by which company?",
+         "answerOptions": [
+        { "answerText": "Apple", "isCorrect": true, "num": 1 },
+        { "answerText": "Intel", "isCorrect": false, "num": 2 },
+        { "answerText": "Amazon", "isCorrect": false, "num": 3 },
+        { "answerText": "Microsoft", "isCorrect": false, "num": 4 }
+    ]},
+    {
+        "questionText": "How many Harry Potter books are there?",
+         "answerOptions": [
+        { "answerText": "1", "isCorrect": false, "num": 1 },
+        { "answerText": "4", "isCorrect": false, "num": 2 },
+        { "answerText": "6", "isCorrect": false, "num": 3 },
+        { "answerText": "7", "isCorrect": true, "num": 4 }
+    ]},
+    {
+        "questionText": "Who is the developer of this project?",
+         "answerOptions": [
+        { "answerText": "Elon Musk", "isCorrect": false, "num": 1 },
+        { "answerText": "Jeff Bezos", "isCorrect": false, "num": 2 },
+        { "answerText": "Bill Gates", "isCorrect": false, "num": 3 },
+        { "answerText": "Yoed Levy", "isCorrect": true, "num": 4 }
+    ]}
+]
+}
